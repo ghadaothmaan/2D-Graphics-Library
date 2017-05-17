@@ -2,54 +2,54 @@
 
 Implementation of the following graphics drawing algorithms:
 
-..*Line algorithms
+* Line algorithms
 
-....DDA
+   DDA
 
-....Midpoint 
-
-
-..*Circle algorithms
-
-....Polar 
-
-....Iterative polar
-
-....Midpoint 
+   Midpoint 
 
 
-..*Curves algorithms
+* Circle algorithms
 
-....Bezier curve
+   Polar 
 
-....Hermite curve
+   Iterative polar
 
-....Second degree curve
+   Midpoint 
 
-....Splines
 
-..*Clipping algorithms
+* Curves algorithms
 
-....Point clipping on a rectangle window
+   Bezier curve
 
-....Line clipping on a rectangle window
+   Hermite curve
 
-....Point clipping on a cricular window
+   Second degree curve
 
-....Line clipping on a circular window
+   Splines
 
-..*Filling algorithms
+* Clipping algorithms
 
-....Convex filling
+   Point clipping on a rectangle window
+
+   Line clipping on a rectangle window
+
+   Point clipping on a cricular window
+
+   Line clipping on a circular window
+
+* Filling algorithms
+
+   Convex filling
 
 ### TODO list:
 
-..*implement flood fill algorithm
+* implement flood fill algorithm
 
-..*make an eraser
+* make an eraser
 
-..*fix background
+* fix background
 
-..*fix splines
+* fix splines
 
-....To be continued
+  To be continued
